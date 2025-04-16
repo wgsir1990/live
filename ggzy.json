@@ -3,8 +3,19 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     {
+      "key": "豆",
+      "name": "刚哥精选",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "./jar/f0315.jar;md5;92a4933113be29d94549f5bd3f03cd6b"
+    },
+    {
       "key": "天天",
-      "name": "天天┃高峰期用不了就点我换源或者搜索",
+      "name": "天天┃App",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
