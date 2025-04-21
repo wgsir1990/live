@@ -16,40 +16,24 @@ CCTV14,http://101.228.217.41:9091/hls/14/index.m3u8
 CCTV15,http://101.228.217.41:9091/hls/15/index.m3u8
 
 
-CCTV1,http://107.174.52.32/itv.php?id=CCTV1
-CCTV2,http://107.174.52.32/itv.php?id=CCTV2
-CCTV3,http://107.174.52.32/itv.php?id=CCTV3
-CCTV4,http://107.174.52.32/itv.php?id=CCTV4
-CCTV5,http://107.174.52.32/itv.php?id=CCTV5
-CCTV6,http://107.174.52.32/itv.php?id=CCTV6
-CCTV7,http://107.174.52.32/itv.php?id=CCTV7
-CCTV8,http://107.174.52.32/itv.php?id=CCTV8
-CCTV9,http://107.174.52.32/itv.php?id=CCTV9
-CCTV10,http://107.174.52.32/itv.php?id=CCTV10
-CCTV11,http://107.174.52.32/itv.php?id=CCTV11
-CCTV12,http://107.174.52.32/itv.php?id=CCTV12
-CCTV13,http://107.174.52.32/itv.php?id=CCTV13
-CCTV14,http://107.174.52.32/itv.php?id=CCTV14
-CCTV15,http://107.174.52.32/itv.php?id=CCTV15
-CCTV16,http://107.174.52.32/itv.php?id=CCTV16
-CCTV17,http://107.174.52.32/itv.php?id=CCTV17
-CCTV5+,http://107.174.52.32/itv.php?id=CCTV5+
+
+CCTV1,http://180.165.27.13:7777/tsfile/live/0001_1.m3u8
+CCTV2,http://180.165.27.13:7777/tsfile/live/0002_1.m3u8
+CCTV3,http://180.165.27.13:7777/tsfile/live/0003_1.m3u8
+CCTV4,http://180.165.27.13:7777/tsfile/live/0004_1.m3u8
+CCTV5,http://180.165.27.13:7777/tsfile/live/0005_1.m3u8
+CCTV6,http://180.165.27.13:7777/tsfile/live/0006_1.m3u8
+CCTV7,http://180.165.27.13:7777/tsfile/live/0007_1.m3u8
+CCTV8,http://180.165.27.13:7777/tsfile/live/0008_1.m3u8
+CCTV9,http://180.165.27.13:7777/tsfile/live/0009_1.m3u8
+CCTV10,http://180.165.27.13:7777/tsfile/live/0010_1.m3u8
+CCTV11,http://180.165.27.13:7777/tsfile/live/0011_1.m3u8
+CCTV12,http://180.165.27.13:7777/tsfile/live/0012_1.m3u8
+CCTV13,http://180.165.27.13:7777/tsfile/live/0013_1.m3u8
+CCTV14,http://180.165.27.13:7777/tsfile/live/0014_1.m3u8
+CCTV15,http://180.165.27.13:7777/tsfile/live/0015_1.m3u8
 
 
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 
