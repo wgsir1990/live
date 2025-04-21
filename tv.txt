@@ -11,6 +11,7 @@ CCTV9,http://101.228.217.41:9091/hls/9/index.m3u8
 CCTV10,http://101.228.217.41:9091/hls/10/index.m3u8
 CCTV11,http://101.228.217.41:9091/hls/11/index.m3u8
 CCTV12,http://101.228.217.41:9091/hls/12/index.m3u8
+CCTV13,http://101.228.217.41:9091/hls/13/index.m3u8
 CCTV14,http://101.228.217.41:9091/hls/14/index.m3u8
 CCTV15,http://101.228.217.41:9091/hls/15/index.m3u8
 CCTV17,http://101.228.217.41:9091/hls/16/index.m3u8
