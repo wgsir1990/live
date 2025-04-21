@@ -31,7 +31,9 @@ CCTV12,http://107.174.52.32/itv.php?id=CCTV12
 CCTV13,http://107.174.52.32/itv.php?id=CCTV13
 CCTV14,http://107.174.52.32/itv.php?id=CCTV14
 CCTV15,http://107.174.52.32/itv.php?id=CCTV15
-
+CCTV16,http://107.174.52.32/itv.php?id=CCTV16
+CCTV17,http://107.174.52.32/itv.php?id=CCTV17
+CCTV5+,http://107.174.52.32/itv.php?id=CCTV5+
 
 
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
