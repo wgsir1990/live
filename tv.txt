@@ -1,4 +1,8 @@
 央卫频道,#genre#
+CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://218.13.14.6:60050/tsfile/live/1001_1.m3u8
+CCTV1,http://42.237.183.124:7000/hls/1/index.m3u8
+CCTV1,http://39.165.196.149:9003//hls/1/index.m3u8
 CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
 CCTV1,http://101.228.217.41:9091/hls/1/index.m3u8
 CCTV2,http://101.228.217.41:9091/hls/2/index.m3u8
