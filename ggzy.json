@@ -320,7 +320,7 @@
       "key": "88js",
       "name": "⚽️┃88看球",
       "type": 3,
-      "api": "http://xhztv.top/xhz/js/lib/drpy.min.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "./js/88ball.js",
       "style": {
         "type": "list"
@@ -333,7 +333,7 @@
       "key": "Jrsjs",
       "name": "⚽️┃jrs看球",
       "type": 3,
-      "api": "http://xhztv.top/xhz/js/lib/drpy.min.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "./js/jrs.js",
       "style": {
         "type": "list"
