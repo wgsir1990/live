@@ -334,7 +334,7 @@
       "name": "⚽️┃jrs看球",
       "type": 3,
       "api": "http://xhztv.top/xhz/js/lib/drpy.min.js",
-      "ext": "http://xhztv.top/xhz/js/JRKAN直播.js",
+      "ext": "./js/jrs.js",
       "style": {
         "type": "list"
       },
