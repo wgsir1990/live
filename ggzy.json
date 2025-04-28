@@ -342,19 +342,6 @@
       "quickSearch": 0,
       "changeable": 0
     }
-
-  ],
-
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "./tv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://diyp10.112114.xyz/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
   ],
   "parses": [
     {
