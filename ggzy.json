@@ -1,17 +1,6 @@
 {
   "spider": "./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
   "wallpaper": "https://bing.img.run/uhd.php",
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "./tv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://diyp10.112114.xyz/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
   "sites": [
     {
       "key": "豆",
