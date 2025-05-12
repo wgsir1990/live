@@ -120,7 +120,7 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
-      "ext": "7lj763gg0939790g466487j0g95j82jil1qiaojig6j6j40j57hgi9g3i9i42k7ilk9i124lj80il9i1"
+      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
     {
       "key": "永夜",
@@ -128,23 +128,7 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
-      "ext": "7lj763gg0939790i5g64qiaoji9ki3hj5k98jil1g6j6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
-    },
-    {
-      "key": "木头",
-      "name": "木头┃App",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "7lj763gg0939790k5i39i4jkh9488386k4k6i952i1i62020535208l7lj004i16039g51g480038h986g53klijg6"
-    },
-    {
-      "key": "好客",
-      "name": "好客┃App",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "7lj763gg402i7942503399i0h6489gjiljhhj910il8771225g4415l4lj02150l179l44g2965180ig3812h0iil7ki11g9k4786042k5h3j8kl22812gk477h5414ik9kl93hgkg266i29j112204797l45i677ih6l66h26k2jjgj819328"
+      "ext": "7lj763gg0939790i413gi4jjh545959lhighi4414qiaoji964ihg48l909l2l019kgii607i213k5j602"
     },
     {
       "key": "专业",
@@ -152,7 +136,7 @@
       "type": 3,
       "api": "csp_Shark",
       "playerType": 1,
-      "ext": "7lj763gg402i7942432l89j2hi5095jiljhhj910il8771225g4415l4lj02150l179l44g2965180ig3812h0iik5k557k6k0693g4glig6j7lj27962kl76hhg5g58k2lhikh1kk263g64ik0i6i1hi2kh5g6371g5lh6020kgihgj819828g5701k"
+      "ext": "7lj763gg402i7942432l89j2hi5095jiljhhj910il8771225g4415l4lj02150l179l44g2965180ig3812h0iik5k557k6k0693g4glig6j7lj27962kl76hhg5g58k2lhikh1kk263g64ik0i691hi2kh5g6371g5lh6020kgihgj819828g5701k "
     },
     {
       "key": "星河",
@@ -169,6 +153,22 @@
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "7lj763gg0939795i007hi482k80ii2i3ghl084099ij36j70031107l2kg105816139i56g38h03i1j06k4gkk9ll7kl1lk4k8687k55l0g19ggk72j06gg073li1j11"
+    },
+    {
+      "key": "晴空",
+      "name": "晴空┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942503g9gj0hj4li281k7g69k56829j33311j400hk3ki0557400l8k49gh9g02i1j13l1kh9jgl5gk40hkl362760jl8h09hgk73813kl736gk1l18g3l4i0g0g56h7629ik"
+    },
+    {
+      "key": "鲨鱼",
+      "name": "鲨鱼┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg402i79425227999jg7508k90k3k6j244j6952l2557574gg6kh00480l42i05hg49i578l973l18ghj2g3kk0ll4l1392258l7h6ikk077j56l"
     },
     {
       "key": "雨滴",
