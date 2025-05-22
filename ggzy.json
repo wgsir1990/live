@@ -134,9 +134,9 @@
       "key": "专业",
       "name": "专业┃App",
       "type": 3,
-      "api": "csp_Shark",
+      "api": "csp_Xdai",
       "playerType": 1,
-      "ext": "7lj763gg402i7942432l89j2hi5095jiljhhj910il8771225g4415l4lj02150l179l44g2965180ig3812h0iik5k557k6k0693g4glig6j7lj27962kl76hhg5g58k2lhikh1kk263g64ik0i691hi2kh5g6371g5lh6020kgihgj819828g5701k "
+      "ext": "7lj763gg402i7942503g9gj0hj4li291k1lii113j8862i3j7g5412g5gi4k0k5i4ki513l9j61ijjig2735g88gg0g941h2g2352710ggli85h268996ig539"
     },
     {
       "key": "星河",
@@ -148,7 +148,7 @@
     },
     {
       "key": "时常",
-      "name": "时常┃App",
+      "name": "时常┃无搜索",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -160,11 +160,11 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i7942503g9g9jg94l9884l3k6i952i1951j70534g2ji3i81g55003ki27hgji1688lg56g1ih6h5i6ij15k9lk452078lkkhl1k074jj68"
+      "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
     },
     {
       "key": "鲨鱼",
-      "name": "鲨鱼┃App",
+      "name": "鲨鱼┃无搜索",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
