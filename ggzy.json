@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
+  "spider": "./jar/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "天天",
-      "name": "天天┃APP",
+      "name": "天天┃App",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -70,11 +70,11 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
-      "ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji"
+      "ext": "7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"
     },
     {
       "key": "juziys",
-      "name": "橘子┃App",
+      "name": "橘子┃无搜索",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -97,6 +97,14 @@
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
     {
+      "key": "柚子",
+      "name": "柚子┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "7lj763gg0939795i0678i481k40hi2i3ghlg840i98j9667qiaoji000134jg7k591gjjk9j5lg53255g2i7gl2749l3j2h8g5"
+    },
+    {
       "key": "永夜",
       "name": "永夜┃App",
       "type": 3,
@@ -105,12 +113,20 @@
       "ext": "7lj763gg0939790i413gi4jjh545959lhighi4414qiaoji964ihg48l909l2l019kgii607i213k5j602"
     },
     {
+      "key": "趣看",
+      "name": "趣看┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942463j9j9jg1499j87l9g9i413il8gqiaoji20g7g4919j3g019296lk9351hh3k5gg38lj0754il3jg"
+    },
+    {
       "key": "专业",
       "name": "专业┃App",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "ext": "7lj763gg402i7942503g9gj0hj4li291k1lii113j8862i3j7g5412g5gi4k0k5i4ki513l9j61ijjig2735g88gg0g941h2g2352710ggli85h268996ig539"
+      "ext": "7lj763gg402i7942503g9gj0hj4li298lllii113j8862i3j79713kl8j2367k3j229l0kklhh63978g27368jg6ljj739i2i3597j0jhi91lgl828996ig236"
     },
     {
       "key": "星河",
@@ -142,7 +158,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i79425227999jg7508k90k3k6j244j6952l2557574gg6kh00480l42i05hg49i578l973l18ghj2g3kk0ll4l1392258l7h6ikk077j56l"
+      "ext": "7lj763gg402i794240208hi3g05l8181hihhjl53988272355j5107k0jh0l4g362jh008g7h97g91g3210l959lk5jk00l6i856520hl493k3lk019l2ljh73li1i19"
     },
     {
       "key": "雨滴",
@@ -150,7 +166,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i7942482k93i0h4458293llg1i959i3843j285i4l1glkli590j56559144kji902i5j36352hkjglhgk12l4g2392i46hik0i3gg698964lk37gl5512g9lj90gjg4677h69j046255h93lg416576hkl76l2kk8i0gj888k67h5700h0l6438ig74k8k148kk45j8242l375j9g4789j64023i313847k10g62i40i3ik00634127154957"
+      "ext": "7lj763gg402i794252729j81hl4gjh87g7hlij0lj6j8337942134gl0h7165707028353h48h1i9088321kh6j9g4gh40hkg97i7l07khk1jhgk25jj3lg462lk5710l5gljkg9gl787168ij416457i5lg1h7i22hkg27276h69k"
     },
     {
       "key": "优质",
@@ -158,7 +174,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i79425j2893i0h14i8596k6h1i75gj4i76g791i4602g9g8410i5642j951h5814192943219g99glhh319l7k02k6046l0gkigki2l842jk363gl5453l1l2jhl3g02l3k798l4h3j4582lh4g7l61hgll7776h096h0j4jh7k"
+      "ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
     },
     {
       "key": "木叶",
@@ -316,7 +332,7 @@
       "filterable": 0,
       "ext": "6666666666666666"
     },
-        {
+    {
       "key": "88js",
       "name": "88看球",
       "type": 3,
@@ -382,7 +398,7 @@
       }
     }
   ],
-  "flags": [ "youku", "qq", "QQ", "iqiyi", "qiyi", "letv", "sohu", "pptv", "PPTV", "mgtv", "wasu", "bilibili", "m1905", "seven", "m78" ],
+  "flags": [ "youku", "qq", "QQ", "iqiyi", "qiyi", "letv", "sohu", "pptv", "PPTV", "mgtv", "wasu", "bilibili", "m1905", "seven", "m78", "mtv", "sjs", "dbs", "yds" ],
   "ijk": [
     {
       "group": "软解码",
