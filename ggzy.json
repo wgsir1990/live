@@ -13,17 +13,7 @@
     }
   ],
   "sites": [
-    {
-      "key": "豆",
-      "name": "刚哥精选",
-      "type": 3,
-      "api": "csp_DouDouGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "./jar/f0315.jar;md5;92a4933113be29d94549f5bd3f03cd6b"
-    },
+    {"key":"csp_DouDou","name":"🔍聚玩盒子-本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"jar": "./jar/Yoursmile.jar;md5;69DADB9A99A618EA9E2F4E2B92968E41"},
     {
       "key": "88js",
       "name": "88看球",
