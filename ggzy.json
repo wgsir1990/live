@@ -30,12 +30,12 @@
       "name": "926看球",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "./js/926ball",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
-      },
-      "ext": "./js/926ball"
+      }
     },
     {
       "key": "天天",
