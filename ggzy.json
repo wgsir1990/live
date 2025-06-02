@@ -355,8 +355,7 @@
         "type": "list"
       },
       "ext": "./js/310tv"
-    },
-    {"key":"csp_Kanqiu","name":"⚾看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"},"jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"}
+    }
   ],
   "parses": [
     {
