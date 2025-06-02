@@ -27,7 +27,7 @@
     },
     {
       "key": "drpy_js_310直播",
-      "name": "310看球",
+      "name": "926看球",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "changeable": 0,
@@ -35,7 +35,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "./js/310tv"
+      "ext": "./js/926ball"
     },
     {
       "key": "天天",
