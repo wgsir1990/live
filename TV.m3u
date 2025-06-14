@@ -125,7 +125,7 @@ http://180.100.49.183:6610/00000002/01000000000000000000000235978041/index.m3u8
 http://180.100.49.185:6610/00000002/01000000000000000000000208194815/index.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="其他频道",卡酷少儿
 http://180.100.49.185:6610/00000002/01000000000000000000000237510056/index.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="其他频道",优漫卡通
+#EXTINF:-1 tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="其他频道",优漫卡通
 http://222.191.17.8:6610/00000002/01000000000000000000000209332383/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="其他频道",都市剧场
 http://222.191.17.7:6610/00000002/01000000000000000000000234615576/index.m3u8
