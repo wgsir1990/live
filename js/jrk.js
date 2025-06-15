@@ -1,6 +1,6 @@
 var rule = {
     title:'JRKAN直播',
-    host:'https://www.jrs01.com/',
+    host:'https://www.jrs03.com/',
     // JRKAN备用域名:www.jrkankan.com / www.jrkan365.com / jrsyyds.com / www.jryyds.com / jrskan.com / jrsbxj.com /Jrkan备用域名1: www.jrkan2022.com 备用域名2: www.jrs23.com 备用域名2: www.jrskk.com 最新网址发布:www.qiumi1314.co
     
     url:'/fyclass',
