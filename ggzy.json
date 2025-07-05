@@ -40,10 +40,10 @@
     },
     {
       "key": "天天",
-      "name": "天天┃App",
+      "name": "天天┃高峰期用不了就点我换源或者搜索",
       "type": 3,
       "api": "csp_TTian",
-      "playerType": 1,
+      "playerType": 2,
       "ext": "7lj763gg09397919456493i0h44j8681highi4"
     },
     {
@@ -62,7 +62,7 @@
       "name": "热播┃App",
       "type": 3,
       "api": "csp_TTian",
-      "playerType": 1,
+      "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
@@ -70,7 +70,7 @@
       "name": "追剧┃App",
       "type": 3,
       "api": "csp_TTian",
-      "playerType": 1,
+      "playerType": 2,
       "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
@@ -114,28 +114,20 @@
       "ext": "7lj763gg0939795l0379j99jg244859ihighi941i3993j3256471ilhl8045l081i9k57hi845g87902h47l2iil7ki11g9k2787j50ggh1i8h3248872l776k34753l5l9jkg3lk643229ij116800i4g0103l22k0g87228kji6h8919h66l5264k5j3l"
     },
     {
-      "key": "巧技五",
-      "name": "巧技五┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "ext": "7lj763gg0939795i007hi482k70li2i3g3lj840l9jji6678031043hil01458070kg95ig7911i838i2h52ghj2h8kg17k3"
-    },
-    {
-      "key": "juziys",
-      "name": "橘子┃无搜索",
+      "key": "yunyun",
+      "name": "云云┃APP",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg093979191l288ij5g25989jil1g6850i829j24354k134hg2gi41025i4hi708k1i100i3j56k01klj3g7g94khkg230250hh2kh99gi77j021g03llj"
+      "ext": "7lj763gg093979580864jh86k312jji4g5k69h0k9hj36h760g1954g2h71j4801158g09h3i00191ji6i1kk980g3l919h6g131680gk0kg98lk7kj23kg76il84841ghg693hkg72777"
     },
     {
       "key": "lanyingys",
-      "name": "零一┃无搜索",
+      "name": "橘子4K┃APP",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Qiji",
       "playerType": 2,
-      "ext": "7lj763gg0939795i0378i481k204i2i3ghlh840l96j065790g5j18l2g043595k4j955ik4ij0h97ji6h18g180l7g54ik5g036775lh7k792l87kj538kl3kll1j"
+      "ext": "7lj763gg0939795i0678i481k40hi2i3ghlg840i9lj166700g1449g3k5244k2017h35698h4739ih31117kigil3k02hl2jk6i5155ih9kkgl311gl37g240g85111ggg2"
     },
     {
       "key": "kafeiys",
@@ -175,15 +167,15 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
-      "ext": "7lj763gg0939795i0678i481k40hi2i3ghlg840i98j9667qiaoji000134jg7k591gjjk9j5lg53255g2i7gl2749l3j2h8g5"
+      "ext": "7lj763gg0939790i413gi4igh94585i7g0l98449i399qiaoji20187h78327624i6j3i9lj8g09l9ig1ii3"
     },
     {
       "key": "永夜",
       "name": "永夜┃App",
       "type": 3,
-      "api": "csp_Qiji",
+      "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i794240208hi3g05l8181highj909i7i7282k425j21ggg13i630l378272k58l71i2h42l18g1h9glg433jll14i6071h6g5k8gj169138kl3kll1j"
+      "ext": "7lj763gg402i7942503g9gj0hj4li286k8h1j913j490266k53510hk6kh1h151g0382419ih40485880116ggj5i1j04jllg9304142il9k9jkg2ghl36k4399g6115k2gk9297kg23752g"
     },
     {
       "key": "趣看",
@@ -195,11 +187,11 @@
     },
     {
       "key": "专业",
-      "name": "专业┃无搜索",
+      "name": "专业┃APP",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Shark",
       "playerType": 1,
-      "ext": "7lj763gg402i7942433293i0g9458881hig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9lh1jl3l1706410l0ggjlk023873il73igh1i41glgli0l3g52k712h83473k5496g44k3773k4g26i76h597llj6977gl13g"
+      "ext": "7lj763gg0939795i007ii481k008i2i3g5l8840l9kjk6670031743g2h6164h07558245g3845392972819h994k1k400khli736i0lligk9gh273ih6jkl7jg84k54lhl9i5gkl376266h9k4624548kl649676gg9k2763llkj6gj818l"
     },
     {
       "key": "星河",
@@ -207,7 +199,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk"
+      "ext": "7lj763gg402i7942503g9gj0hj4li2i6l9gijh13i58g296k475317hjkj0l4l1229i07h81gg45i78k2804k9ghk5l50ikjki522278j280jig82i9624g747hk4454l0kh93l4g0 "
     },
     {
       "key": "时常",
@@ -216,14 +208,6 @@
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3k81j1hl48i294k7g6j6599ijg6k22031343g4gl15585843i205gh9i02i0j6384ikljhg1gg1gk4g6382006l8k09hgi"
-    },
-    {
-      "key": "晴空",
-      "name": "晴空┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
     },
     {
       "key": "鲨鱼",
@@ -255,7 +239,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "7lj763gg402i79425g328hi3h912849hl3h8jg13il86316l514l54g2h703431g07i40lk1i001i0j5694lki81l9lk17k5ll7i260ih2kg98gl77j76lg26jg24l4ll8l8jkl3g622"
+      "ext": "7lj763gg402i7942503g839jh8558j82k2k6i952i1i73l2l4k1349g5g144085l49i40ih597509i863401klj1g0g44hh4g132260lk6hji9l3248g21g23ll8"
     },
     {
       "key": "蝴蝶",
