@@ -3,16 +3,6 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     {
-      "key": "csp_DouDou",
-      "name": "刚哥精选",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/chuanshuo.jar;md5;a0bca472da42c05997d50e6fb3e95d24"
-    },
-    {
       "key": "88js",
       "name": "88看球",
       "type": 3,
