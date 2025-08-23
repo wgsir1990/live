@@ -1,6 +1,6 @@
 var rule = {
     title:'926直播',
-    host:'https://www.926003.tv//',
+    host:'https://926zhibo-qq.net/',
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     searchUrl:'',
     searchable:0,
