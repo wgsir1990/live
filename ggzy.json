@@ -26,11 +26,11 @@
       "changeable": 0
     },
     {
-      "key": "926tv",
-      "name": "926看球",
+      "key": "JRK",
+      "name": "JRK看球",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "./js/926ball.js",
+      "ext": "./js/jrk.js",
       "style": {
         "type": "list"
       },
