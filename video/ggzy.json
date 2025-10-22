@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/wgsir1990/live/blob/main/jar/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
+  "spider": "https://gitee.com/wgsir1990/live/blob/raw/main/jar/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     {
@@ -10,7 +10,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/wgsir1990/live/blob/main/jar/chuanshuo.jar;md5;a0bca472da42c05997d50e6fb3e95d24"
+      "jar": "https://gitee.com/wgsir1990/live/blob/raw/main/jar/chuanshuo.jar;md5;a0bca472da42c05997d50e6fb3e95d24"
     },
     {
       "key": "88js",
