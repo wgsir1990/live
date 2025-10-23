@@ -9,7 +9,7 @@ http://180.100.49.169:6610/00000002/01000000000000000000000209123267/index.m3u8
 http://180.100.49.169:6610/00000002/01000000000006470781000012435093/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/wgsir1990/live-logo/raw/master/logo/CCTV5.png" group-title="央视频道",CCTV5
 http://180.100.49.169:6610/00000002/01000000000000000000000209123269/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wgsir1990/live-logo/raw/master/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wgsir1990/live-logo/raw/master/logo/CCTV-5.png" group-title="央视频道",CCTV5+
 http://180.100.49.169:6610/00000002/01000000000002242213000002930093/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/wgsir1990/live-logo/raw/master/logo/CCTV6.png" group-title="央视频道",CCTV6
 http://180.100.49.169:6610/00000002/01000000000000000000000209123271/index.m3u8
