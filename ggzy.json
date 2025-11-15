@@ -14,7 +14,7 @@
     },
     {
       "key": "88js",
-      "name": "88看球",
+      "name": "体育 | 88看球",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "./js/88ball.js",
@@ -24,6 +24,42 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+        {
+      "key": "310直播",
+      "name": "体育 | 310直播",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./js/310直播.js"
+    },
+    {
+      "key": "JRKAN直播",
+      "name": "体育 | JRKAN直播",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./js/JRKAN直播.js"
+    },
+    {
+      "key": "抓饭体育",
+      "name": "体育 | 抓饭体育",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./js/抓饭体育.js"
     },
     {
       "key": "天天",
