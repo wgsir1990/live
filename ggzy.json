@@ -39,8 +39,7 @@
       "api": "csp_ConfigCenter",
       "searchable": 0,
       "changeable": 0,
-      "ext": {
-          
+      "ext": {  
         "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
       }
     },
