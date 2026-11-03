@@ -3,7 +3,7 @@
   "wallpaper": "https://wallpaper-1tg.pages.dev/",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
-        {
+    {
       "key": "csp_DouDou",
       "name": "刚哥精选",
       "type": 3,
