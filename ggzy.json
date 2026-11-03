@@ -13,9 +13,6 @@
       "filterable": 1,
       "jar": "./jar/chuanshuo.jar;md5;a0bca472da42c05997d50e6fb3e95d24"
     },
-    {"key": "配置中心","name": "配置 • 中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}},
-    {"key": "本地","name": "本地 • 视频","type": 3,"api": "csp_LocalFile"},
-    {"key": "预告","name": "新片 • 预告","type": 3,"api": "csp_YGP","searchable": 0},
     {"key": "瓜子体育","name": "瓜子 • 体育","type": 3,"api": "csp_SportsGuazi","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "球通体育","name": "球通 • 体育","type": 3,"api": "csp_SportQiutong","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "咖啡体育","name": "咖啡 • 体育","type": 3,"api": "csp_SportsKafei","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
@@ -117,9 +114,6 @@
     {"key": "drpy_js_Anime1动畫","name": "动漫 • Anime1动畫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/Anime1动畫.js"},
     {"key": "drpy_js_NT动漫","name": "动漫 • NT动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NT动漫.js"},
     {"key": "drpy_js_路漫漫","name": "动漫 • 路漫漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/路漫漫.js"},
-    {"key": "push_agent","name": "手机｜推送","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0},
-    {"key": "bb","name": "配置接口完全免费","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
-    {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"}
   ],
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo"},
