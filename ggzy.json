@@ -12,8 +12,8 @@
       "filterable": 1,
       "jar": "./jar/chuanshuo.jar;md5;a0bca472da42c05997d50e6fb3e95d24"
     },
-{"key": "瓜子体育","name": "瓜子 • 体育","type": 3,"api": "csp_SportsGuazi","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
-{"key": "球通体育","name": "球通 • 体育","type": 3,"api": "csp_SportQiutong","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
+{"key": "瓜子体育","name": "瓜子 • 体育","type": 3,"api": "csp_SportsGuazi","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"},"jar": "./jar/spider.jar;md5;c6c7cbd14359dee31a97abb7ec27df19"},
+{"key": "球通体育","name": "球通 • 体育","type": 3,"api": "csp_SportQiutong","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"},"jar": "./jar/spider.jar;md5;c6c7cbd14359dee31a97abb7ec27df19"},
 {"key":"csp_GuaZi","name":"🍉瓜子","type":3,"api":"csp_GuaZi","searchable":1,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
